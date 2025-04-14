@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bccorb
-- 👀 I’m interested in Software Development, Learning, and Self Improvement!
-- 🌱 I’m currently learning React, AWS, and Docker.
-- 💞️ I’m looking to collaborate on fun utility apps.
+- 👀 I’m interested in all things software development!
+- 🌱 I’m currently learning Rust at the Enterprise level, Pracitcal ML application, Kubernetes Management, and MDR solution software.
+- 💞️ I’m looking to collaborate on apps that solve big problems in meaningful ways.
 
 <!---
 Bccorb/Bccorb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
