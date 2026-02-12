@@ -28,7 +28,7 @@ I am far more interested in long term impact than short term noise.
 
 - Seamless Glance  
   Developer focused infrastructure visibility tooling  
-  https://github.com/fells-code/seamless-glance  
+  https://github.com/fells-code/seamless-glance-distro  
 
 Most of my work is focused on authentication, infrastructure automation, and developer experience.
 
