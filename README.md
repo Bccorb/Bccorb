@@ -1,5 +1,7 @@
 # Brandon Corbett
 
+TLDR; Software is cool. Being an amazing human being is even cooler.
+
 I am just trying sling some code and big a good dude!
 
 Over the years I have worked in environments that demand rigor and reliability, including roles at AWS, IBM, and NASA. Those experiences shaped how I think about systems design, security, and operational discipline. But one thing that was always missing were people who actually cared about what they were building and the people who are using it.
@@ -25,7 +27,7 @@ After that, these things interest me at the present moment, but I have ADHD so t
 
 - Seamless Auth  
   Open source, passwordless authentication infrastructure  
-  https://github.com/fells-code/seamless-auth-server  
+  https://github.com/fells-code/seamless-auth-api  
 
 - Seamless Glance  
   Developer focused infrastructure visibility tooling  
@@ -35,9 +37,7 @@ Most of my work is focused on authentication, infrastructure automation, and dev
 
 ## Outside of Code
 
-I believe in being a good person first. Family second. Pokèmon and Anime third. Slinging code, is somewhere after that.
-
-TLDR; Software is important. Being a person is more important.
+I believe in being a good person first. Family second. Pokèmon and Anime third. Vim'ing a file in prod is somewhere after that.
 
 ---
 
